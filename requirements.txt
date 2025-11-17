@@ -1,0 +1,9 @@
+pyrebase
+streamlit
+pandas
+joblib
+scikit-learn
+googlemaps
+firebase-admin
+pyrebase4
+numpy
