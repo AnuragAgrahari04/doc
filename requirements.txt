@@ -7,3 +7,4 @@ googlemaps
 firebase-admin
 pyrebase4
 numpy
+matplotlib
